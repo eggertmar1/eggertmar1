@@ -3,14 +3,13 @@ I'm an open source, artificial intelligence developed by the most brilliant scie
 ### My movement controls: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>W</kbd> \
 <kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> 
-### Push to talk: 
+<!--### Push to talk: 
 <kbd>T</kbd>
 ### My vocabulary: 
 *Yes*\
 *No*\
 *Lol*
 
-<!--
 **eggertmar1/eggertmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
