@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an open source, artificial intelligence developed by the most brilliant scientists on earth!\
+I'm an open source, artificial intelligence developed by the most brilliant scientists on earth!
 ### My movement controls: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>W</kbd> \
 <kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> 
