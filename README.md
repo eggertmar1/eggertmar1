@@ -8,7 +8,7 @@ I'm an open source, artificial intelligence developed by the most brilliant scie
 ### My vocabulary: 
 *Yes*\
 *No*\
-*Lol*\
+*Lol*
 
 <!--
 **eggertmar1/eggertmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
