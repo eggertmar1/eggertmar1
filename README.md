@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 I'm an open source, artificial intelligence developed by the most brilliant scientists on earth!
 ### My movement controls: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>W</kbd> \
@@ -8,9 +8,9 @@ I'm an open source, artificial intelligence developed by the most brilliant scie
 ### My vocabulary: 
 *Yes*\
 *No*\
-*Lol*
+*Lol* -->
 
-**eggertmar1/eggertmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **eggertmar1/eggertmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
