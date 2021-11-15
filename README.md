@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning software engineering at Reykjavik University
 - 🤔 I’m looking for help with life
 - 💬 Ask me about everything, in fact, I´m Google. 
-- ⚡ Fun fact: Did you know I exist? Now you know!
+ ⚡ Fun fact: Did you know I exist? Now you know!
 <!-- - 📫 How to reach me: LinkedIn,  -->
 <!-- - 😄 Pronouns: ... -->- 
 
