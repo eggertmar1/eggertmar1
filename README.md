@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with life
 - 💬 Ask me about everything, in fact, I´m Google. 
 <!-- - 📫 How to reach me: LinkedIn,  -->
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Did you know I exist? Now you know!
+<!-- - 😄 Pronouns: ... -->- ⚡ Fun fact: Did you know I exist? Now you know!
 
 
 <!-- # About me
