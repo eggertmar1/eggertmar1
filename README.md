@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything, in fact, I´m Google. 
 -  ⚡ Fun fact: Did you know I exist? Now you know!
 <!-- - 📫 How to reach me: LinkedIn,  -->
-<!-- - 😄 Pronouns: ... -->-  -->
+<!-- - 😄 Pronouns: ... -->
 
 
 
