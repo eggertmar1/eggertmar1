@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 
-- Ég er eggert
-<!-- # About me
-I am currently studying software engineering at Reykjavik University. Interests include programming, sports and  -->
+ I am Eggert
+
+I am currently studying software engineering at Reykjavik University. 
