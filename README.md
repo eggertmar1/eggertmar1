@@ -14,15 +14,16 @@ I'm an open source, artificial intelligence developed by the most brilliant scie
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on my website eggert.live
+<!-- - 🔭 I’m currently working on my website eggert.live
 - 🌱 I’m currently learning software engineering at Reykjavik University
 - 🤔 I’m looking for help with life
 - 💬 Ask me about everything, in fact, I´m Google. 
 -  ⚡ Fun fact: Did you know I exist? Now you know!
 <!-- - 📫 How to reach me: LinkedIn,  -->
-<!-- - 😄 Pronouns: ... -->- 
+<!-- - 😄 Pronouns: ... -->-  -->
 
 
 
+- Ég er eggert
 <!-- # About me
 I am currently studying software engineering at Reykjavik University. Interests include programming, sports and  -->
