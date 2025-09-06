@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 
 
  I am Eggert
-
-I am currently studying software engineering at Reykjavik University. 
